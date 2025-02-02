@@ -25,5 +25,4 @@ A modern, futuristic web application built with Next.js that allows users to upl
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/ml-image-processor.git
-cd ml-image-processor
+git clone https://github.com/lovezan/MajorProject.git
